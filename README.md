@@ -4,4 +4,4 @@ How to Read the Different types of Data Format in python :
   Video link: https://youtu.be/KKCDAiGqZvQ
   
 How to connect MySQL server in Python and How to Read and Execute the MySQL queries in Python :
-  Video link :
+  Video link : https://youtu.be/HiY1Wz6NaAw
