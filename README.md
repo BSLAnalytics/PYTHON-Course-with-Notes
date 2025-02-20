@@ -1,7 +1,7 @@
 If u want YOUTUBE videos for better understanding 
 
-1.How to Read the data in Jupyter Notebook(PART-1):
-  Video link: https://youtu.be/z9X0C5Omnog
+How to Read the Different types of Data Format in python :
+  Video link: https://youtu.be/KKCDAiGqZvQ
   
-2.How to connect and Read the Data from MYSQL Sever in Jupyter Notebook(PART-2):
+How to connect MySQL server in Python and How to Read and Execute the MySQL queries in Python :
   Video link :
